@@ -1,0 +1,29 @@
+.banner {
+  align-items: center;
+  background: url(../../images/banner.png) no-repeat center center;
+  background-size: cover;
+  color: #fff;
+  display: flex;
+  flex-direction: column;
+  height: 535px;
+  justify-content: center;
+}
+
+.h1 {
+  font-size: 36px;
+  line-height: 1.5;
+  text-align: center;
+  width: 45%;
+}
+
+.h4 {
+  font-weight: 300;
+  margin: 40px 0 80px;
+}
+
+.button {
+  background: #3fbded;
+  color: #fff;
+  height: 50px;
+  width: 225px;
+}

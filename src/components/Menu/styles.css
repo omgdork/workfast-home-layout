@@ -1,0 +1,23 @@
+.menu {
+  background: #333;
+  display: flex;
+  justify-content: flex-end;
+  list-style: none;
+  padding: 0 80px;
+}
+
+.link {
+  color: #fff;
+  display: inline-block;
+  margin-left: 50px;
+  padding: 18px 0;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+.link.active,
+.link:hover {
+  border-bottom: 3px solid #fff;
+  font-weight: 600;
+  padding-bottom: 15px;
+}

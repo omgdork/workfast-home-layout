@@ -1,0 +1,41 @@
+.icons {
+  background: #eef4f5;
+  display: flex;
+  height: 160px;
+  justify-content: space-evenly;
+  list-style: none;
+  padding: 0 80px;
+}
+
+.icons li {
+  align-items: center;
+  background-position: 0 50%;
+  background-repeat: no-repeat;
+  display: flex;
+  font-weight: 600;
+  padding-left: 60px;
+}
+
+.civil-and-rail {
+  background-image: url(../../images/icon-civil-and-rail.png);
+}
+
+.mining {
+  background-image: url(../../images/icon-mining.png);
+}
+
+.construction {
+  background-image: url(../../images/icon-construction.png);
+}
+
+.warehousing {
+  background-image: url(../../images/icon-warehousing.png);
+}
+
+.labour-hire {
+  background-image: url(../../images/icon-labour-hire.png);
+}
+
+.office-admin {
+  background-image: url(../../images/icon-office-admin.png);
+}

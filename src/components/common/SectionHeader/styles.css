@@ -1,0 +1,7 @@
+h2.section-header {
+  background: url(../../../images/arrow.png) no-repeat 0 50%;
+  font-weight: 600;
+  margin: 35px 0;
+  padding-left: 50px;
+  text-transform: uppercase;
+}

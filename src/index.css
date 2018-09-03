@@ -1,0 +1,16 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html,
+body,
+button {
+  font-family: 'Montserrat', sans-serif;
+}
+
+button:hover,
+.button:hover {
+  cursor: pointer;
+}

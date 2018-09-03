@@ -1,0 +1,19 @@
+section.partners {
+  border-bottom: 3px solid #dbe5ed;
+  margin: 10px 80px;
+  padding: 10px 20px;
+}
+
+.list {
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+}
+
+.list li {
+  display: flex;
+  flex: 1 1 calc(100%/6);
+  justify-content: center;
+  margin: 30px 0;
+}
